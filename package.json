@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "npm6.14": "^2.0.0",
+    "simplelightbox": "^2.10.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "parcel": "^2.0.1"
+  },
+  "name": "goit-js-hw-08",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sasha-Tolk/goit-js-hw-08.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sasha-Tolk/goit-js-hw-08/issues"
+  },
+  "homepage": "https://Sasha-Tolk.github.io/goit-js-hw-08#readme"
+}
